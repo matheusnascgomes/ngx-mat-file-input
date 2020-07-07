@@ -1,13 +1,19 @@
 {
-  "name": "ngx-material-file-input",
-  "version": "2.1.1",
+  "name": "ngx-mat-file-input",
+  "version": "3.0.0-beta.0",
   "license": "MIT",
   "author": {
     "name": "Jeremy Legros"
   },
-  "description": "File input management for Angular Material",
-  "homepage": "https://merlosy.github.io/ngx-material-file-input/",
-  "keywords": ["angular", "material", "file", "input", "mat-form-field"],
+  "description": "This is a fork of the file input management for Angular Material initially maintained on https://merlosy.github.io/ngx-material-file-input/",
+  "homepage": "https://github.com/matheusnascgomes/ngx-mat-file-input",
+  "keywords": [
+    "angular",
+    "material",
+    "file",
+    "input",
+    "mat-form-field"
+  ],
   "bugs": {
     "url": "https://github.com/merlosy/ngx-material-file-input/issues"
   },
