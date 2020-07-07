@@ -4,7 +4,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/merlosy/ngx-material-file-input/badge.svg)](https://coveralls.io/github/merlosy/ngx-material-file-input)
 [![Known Vulnerabilities](https://snyk.io/test/github/merlosy/ngx-material-file-input/badge.svg)](https://snyk.io/test/github/merlosy/ngx-material-file-input)
 
-# material-file-input
+# mat-file-input
+
+### :warning: This project is a fork of the [ngx-material-file-input](https://github.com/merlosy/ngx-material-file-input) 
 
 This project provides :
 
@@ -83,18 +85,4 @@ _Output:_ 100 MB
 | maxContentSize(value: `number`): `ValidatorFn` | Limit the total file(s) size to the given value | `{ actualSize: number, maxSize: number }` |
 | allowedExtensions(extentions: `string[]`): `ValidatorFn` | Handles allowed file types by controlling whether some specific extensions matches with the uploaded file type | `{ allowedExtentions: allowedExtentions[] }` |
 
-# About me
-
-[@jereyleg](https://twitter.com/jereyleg)
-
 &star; to show support :)
-
-# Roadmap
-
-* drop event to add files
-* _ideas?_
-
-# Kudos to
-
-* https://github.com/dherges/ng-packagr
-* Jason Aden - Packaging Angular Libraries https://www.youtube.com/watch?v=QfvwQEJVOig
