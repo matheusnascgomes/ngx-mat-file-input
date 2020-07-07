@@ -5,6 +5,16 @@
   "author": {
     "name": "Jeremy Legros"
   },
+  "contributors": [
+    {
+      "name": "Matheus Gomes",
+      "email": "matheusnascgomes@gmail.com"
+    },
+    {
+      "name": "Raí Siqueira",
+      "email": "me@raisiqueira.dev"
+    }
+  ],
   "description": "This is a fork of the file input management for Angular Material initially maintained on https://merlosy.github.io/ngx-material-file-input/",
   "homepage": "https://github.com/matheusnascgomes/ngx-mat-file-input",
   "keywords": [
@@ -15,11 +25,11 @@
     "mat-form-field"
   ],
   "bugs": {
-    "url": "https://github.com/merlosy/ngx-material-file-input/issues"
+    "url": "https://github.com/matheusnascgomes/ngx-mat-file-input/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/merlosy/ngx-material-file-input"
+    "url": "https://github.com/matheusnascgomes/ngx-mat-file-input"
   },
   "dependencies": {},
   "peerDependencies": {
